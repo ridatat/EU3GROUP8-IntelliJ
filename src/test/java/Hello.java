@@ -7,7 +7,7 @@ public class Hello {
 
         System.out.println("Each group member created one file!");
 
-        System.out.println("\"guys I am going out to another lesson see you later \" = " + "guys I am going out to another lesson see you later ");
+        System.out.println("\"DONT BE LATE mehmet abi , guys I am going out to another lesson see you later \" = " + "guys I am going out to another lesson see you later ");
         //write same line
     }
 }
